@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Petr 👋
 
-<!--
-**petrk4/petrk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Engineer
 
-Here are some ideas to get you started:
+Интересуюсь построением data-платформ, ETL/ELT пайплайнами,
+DWH архитектурой и обработкой данных в batch и streaming режиме.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+- Python
+- SQL
+- PostgreSQL
+- Apache Spark
+- Apache Kafka
+- Apache Airflow
+- Docker
+- Kubernetes
+- Yandex Cloud
+- Vertica
+
+## Featured Projects
+
+### Event-Driven Data Warehouse Pipeline
+Многослойное DWH (STG → DDS → CDM), Kafka, Kubernetes, Yandex Cloud.
+
+### Real-time Restaurant Campaign Streaming Pipeline
+Потоковая обработка данных на Spark Structured Streaming и Kafka.
+
+### Geo Social Analytics Pipeline
+Airflow + Spark + YARN. Построение аналитических витрин по событиям мессенджера.
+
+### S3 to Vertica Data Warehouse Pipeline
+Data Vault модель, Vertica, Airflow, загрузка данных из S3.
+
+## Currently Learning
+
+- dbt
+- Data Quality
+- Data Modeling
+- ClickHouse
